@@ -3,6 +3,76 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.23.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.23.1...@pancakeswap-libs/uikit@0.23.2) (2021-04-12)
+
+
+### Bug Fixes
+
+* Stepper alignement ([#69](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/69)) ([25df26a](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/25df26a9c9e6668c4e0ccd8171df6f748b41dccf))
+
+
+
+
+
+## [0.23.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.23.0...@pancakeswap-libs/uikit@0.23.1) (2021-04-12)
+
+**Note:** Version bump only for package @pancakeswap-libs/uikit
+
+
+
+
+
+# [0.23.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.2...@pancakeswap-libs/uikit@0.23.0) (2021-04-12)
+
+
+### Bug Fixes
+
+* **tab-menu:** Fix scroll overflow and tighten padding on sm phones ([#62](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/62)) ([ef0cd3d](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/ef0cd3d8896b34968e3610c2a078842dfe7142bf))
+
+
+### Features
+
+* Add left position for card ribbon ([#68](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/68)) ([0edaf8e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/0edaf8e7a1dfa76be1fa858d3e534471a533b512))
+
+
+
+
+
+## [0.22.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.1...@pancakeswap-libs/uikit@0.22.2) (2021-04-11)
+
+
+### Bug Fixes
+
+* Stepper connector visibility ([#66](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/66)) ([629be7b](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/629be7b33cc3c7d95499ca67b7a175a29f3f7225))
+
+
+
+
+
+## [0.22.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.22.0...@pancakeswap-libs/uikit@0.22.1) (2021-04-10)
+
+
+### Bug Fixes
+
+* **modal:** Change modal min width to 320px ([#60](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/60)) ([f09ade9](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/f09ade9f149d6793404c86829a728b4f1ba7b93a))
+* Accordion menu stuck at active state ([#57](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/57)) ([f9f5162](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/f9f5162f269a27b375943db4b87850c6d8998d3d))
+* React dom failure when passing unknown props to child component ([#49](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/49)) ([e3c0272](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/e3c02729bb5c1391d6179a7da6c38bdee6f741bf))
+
+
+
+
+
+# [0.22.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.21.0...@pancakeswap-libs/uikit@0.22.0) (2021-04-07)
+
+
+### Features
+
+* Add Tune icon ([#54](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/54)) ([54702ac](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/54702ac31f6ff7ea0eeb7483363841eb0a2262d6))
+
+
+
+
+
 # [0.21.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap-libs/uikit@0.20.1...@pancakeswap-libs/uikit@0.21.0) (2021-04-06)
 
 
